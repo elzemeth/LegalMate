@@ -37,7 +37,7 @@
 <p  align="center">⚠️Yalnızca bilgilendirme amaçlıdır, hukuki görüş yerine geçmez.⚠️</p>
 
 <p  align="center">
-<a  href="https://legalmate.vercel.app"  target="_blank">
+<a  href="https://legal-mate.vercel.app"  target="_blank">
 <img  src="https://img.shields.io/badge/🚀_Live_Demo-Canlı_Demo-blue?style=for-the-badge&logo=vercel&logoColor=white"  alt="Live Demo">
 </a>
 <a  href="https://github.com/elzemeth/LegalMate"  target="_blank">
@@ -63,7 +63,7 @@
 
 - [Hızlı Bakış](#-hızlı-bakış)
 
-- [Teknoloji Stack](#️-teknoloji-stack)
+- [Teknolojiler](#️-teknoloji-stack)
 
 - [Genel Bakış](#-genel-bakış)
 
@@ -116,7 +116,7 @@
 ## <h3 align="center"  id="-hızlı-bakış"> HIZLI BAKIŞ </h3>
 
  <p  align="center">
-<a  href="https://legalmate.vercel.app"  target="_blank">
+<a  href="https://legal-mate.vercel.app"  target="_blank">
 <img  src="https://img.shields.io/badge/🎯_Canlı_Demo'yu_Deneyin-Try_Live_Demo-ff6b6b?style=for-the-badge&logo=rocket&logoColor=white"  alt="Try Live Demo">
 
 </a>
@@ -124,7 +124,7 @@
 
   
 
-## <h3 align="center"  id="️-teknoloji-stack"> Teknoloji Stack </h3>
+## <h3 align="center"  id="️-teknoloji-stack"> Teknolojiler </h3>
 
   
 
