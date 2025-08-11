@@ -13,16 +13,16 @@
   ],
   "author": {
     "name": "LegalMate Team",
-    "email": "contact@legalmate.com"
+    "email": ""
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/legalmate.git"
+    "url": "https://github.com/elzemeth/legalmate.git"
   },
-  "homepage": "https://legalmate.com",
+  "homepage": "https://legal-mate.vercel.app",
   "bugs": {
-    "url": "https://github.com/yourusername/legalmate/issues"
+    "url": "https://github.com/elzemeth/legalmate/issues"
   },
   "private": true,
   "scripts": {
